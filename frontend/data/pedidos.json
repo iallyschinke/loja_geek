@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 10,
+    "data_pedido": "2026-05-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 2,
+    "cliente_id": 42,
+    "data_pedido": "2026-05-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 3,
+    "cliente_id": 68,
+    "data_pedido": "2026-05-19",
+    "status": "Cancelado"
+  },
+  {
+    "id": 4,
+    "cliente_id": 48,
+    "data_pedido": "2026-02-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 5,
+    "cliente_id": 37,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 6,
+    "cliente_id": 60,
+    "data_pedido": "2026-04-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 7,
+    "cliente_id": 100,
+    "data_pedido": "2026-08-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 8,
+    "cliente_id": 40,
+    "data_pedido": "2026-08-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 9,
+    "cliente_id": 77,
+    "data_pedido": "2026-09-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 10,
+    "cliente_id": 8,
+    "data_pedido": "2026-03-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 11,
+    "cliente_id": 38,
+    "data_pedido": "2026-03-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 12,
+    "cliente_id": 36,
+    "data_pedido": "2026-08-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 13,
+    "cliente_id": 95,
+    "data_pedido": "2026-04-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 14,
+    "cliente_id": 86,
+    "data_pedido": "2026-05-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 15,
+    "cliente_id": 100,
+    "data_pedido": "2026-03-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 16,
+    "cliente_id": 16,
+    "data_pedido": "2026-05-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 17,
+    "cliente_id": 74,
+    "data_pedido": "2026-02-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 18,
+    "cliente_id": 76,
+    "data_pedido": "2026-10-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 19,
+    "cliente_id": 67,
+    "data_pedido": "2026-05-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 20,
+    "cliente_id": 5,
+    "data_pedido": "2026-05-12",
+    "status": "Pendente"
+  },
+  {
+    "id": 21,
+    "cliente_id": 25,
+    "data_pedido": "2026-09-12",
+    "status": "Cancelado"
+  },
+  {
+    "id": 22,
+    "cliente_id": 78,
+    "data_pedido": "2026-05-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 23,
+    "cliente_id": 9,
+    "data_pedido": "2026-02-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 24,
+    "cliente_id": 20,
+    "data_pedido": "2026-10-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 25,
+    "cliente_id": 35,
+    "data_pedido": "2026-07-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 26,
+    "cliente_id": 95,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 27,
+    "cliente_id": 82,
+    "data_pedido": "2026-08-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 28,
+    "cliente_id": 62,
+    "data_pedido": "2026-04-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 29,
+    "cliente_id": 84,
+    "data_pedido": "2026-03-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 30,
+    "cliente_id": 82,
+    "data_pedido": "2026-08-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 31,
+    "cliente_id": 56,
+    "data_pedido": "2026-02-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 32,
+    "cliente_id": 55,
+    "data_pedido": "2026-06-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 33,
+    "cliente_id": 15,
+    "data_pedido": "2026-06-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 34,
+    "cliente_id": 50,
+    "data_pedido": "2026-10-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 35,
+    "cliente_id": 12,
+    "data_pedido": "2026-04-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 36,
+    "cliente_id": 87,
+    "data_pedido": "2026-09-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 37,
+    "cliente_id": 4,
+    "data_pedido": "2026-03-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 38,
+    "cliente_id": 4,
+    "data_pedido": "2026-07-24",
+    "status": "Cancelado"
+  },
+  {
+    "id": 39,
+    "cliente_id": 59,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 40,
+    "cliente_id": 15,
+    "data_pedido": "2026-04-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 41,
+    "cliente_id": 35,
+    "data_pedido": "2026-02-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 42,
+    "cliente_id": 58,
+    "data_pedido": "2026-05-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 43,
+    "cliente_id": 36,
+    "data_pedido": "2026-08-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 44,
+    "cliente_id": 21,
+    "data_pedido": "2026-06-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 45,
+    "cliente_id": 46,
+    "data_pedido": "2026-03-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 46,
+    "cliente_id": 50,
+    "data_pedido": "2026-06-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 47,
+    "cliente_id": 19,
+    "data_pedido": "2026-05-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 48,
+    "cliente_id": 20,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 49,
+    "cliente_id": 71,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 50,
+    "cliente_id": 59,
+    "data_pedido": "2026-10-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 51,
+    "cliente_id": 63,
+    "data_pedido": "2026-03-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 52,
+    "cliente_id": 91,
+    "data_pedido": "2026-04-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 53,
+    "cliente_id": 24,
+    "data_pedido": "2026-04-22",
+    "status": "Cancelado"
+  },
+  {
+    "id": 54,
+    "cliente_id": 19,
+    "data_pedido": "2026-07-25",
+    "status": "Cancelado"
+  },
+  {
+    "id": 55,
+    "cliente_id": 75,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 56,
+    "cliente_id": 10,
+    "data_pedido": "2026-09-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 57,
+    "cliente_id": 93,
+    "data_pedido": "2026-08-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 58,
+    "cliente_id": 23,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 59,
+    "cliente_id": 10,
+    "data_pedido": "2026-02-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 60,
+    "cliente_id": 82,
+    "data_pedido": "2026-07-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 61,
+    "cliente_id": 63,
+    "data_pedido": "2026-03-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 62,
+    "cliente_id": 5,
+    "data_pedido": "2026-05-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 63,
+    "cliente_id": 38,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 64,
+    "cliente_id": 93,
+    "data_pedido": "2026-10-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 65,
+    "cliente_id": 70,
+    "data_pedido": "2026-05-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 66,
+    "cliente_id": 11,
+    "data_pedido": "2026-02-01",
+    "status": "Pendente"
+  },
+  {
+    "id": 67,
+    "cliente_id": 12,
+    "data_pedido": "2026-06-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 68,
+    "cliente_id": 31,
+    "data_pedido": "2026-10-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 69,
+    "cliente_id": 80,
+    "data_pedido": "2026-01-10",
+    "status": "Cancelado"
+  },
+  {
+    "id": 70,
+    "cliente_id": 50,
+    "data_pedido": "2026-09-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 71,
+    "cliente_id": 66,
+    "data_pedido": "2026-05-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 72,
+    "cliente_id": 33,
+    "data_pedido": "2026-08-02",
+    "status": "Pendente"
+  },
+  {
+    "id": 73,
+    "cliente_id": 63,
+    "data_pedido": "2026-02-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 74,
+    "cliente_id": 77,
+    "data_pedido": "2026-01-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 75,
+    "cliente_id": 47,
+    "data_pedido": "2026-01-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 76,
+    "cliente_id": 63,
+    "data_pedido": "2026-03-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 77,
+    "cliente_id": 11,
+    "data_pedido": "2026-09-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 78,
+    "cliente_id": 5,
+    "data_pedido": "2026-01-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 79,
+    "cliente_id": 39,
+    "data_pedido": "2026-08-26",
+    "status": "Cancelado"
+  },
+  {
+    "id": 80,
+    "cliente_id": 36,
+    "data_pedido": "2026-07-26",
+    "status": "Cancelado"
+  },
+  {
+    "id": 81,
+    "cliente_id": 57,
+    "data_pedido": "2026-07-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 82,
+    "cliente_id": 90,
+    "data_pedido": "2026-07-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 83,
+    "cliente_id": 85,
+    "data_pedido": "2026-04-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 84,
+    "cliente_id": 96,
+    "data_pedido": "2026-08-16",
+    "status": "Pendente"
+  },
+  {
+    "id": 85,
+    "cliente_id": 24,
+    "data_pedido": "2026-10-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 86,
+    "cliente_id": 64,
+    "data_pedido": "2026-04-16",
+    "status": "Cancelado"
+  },
+  {
+    "id": 87,
+    "cliente_id": 95,
+    "data_pedido": "2026-08-06",
+    "status": "Pendente"
+  },
+  {
+    "id": 88,
+    "cliente_id": 10,
+    "data_pedido": "2026-06-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 89,
+    "cliente_id": 22,
+    "data_pedido": "2026-03-01",
+    "status": "Pendente"
+  },
+  {
+    "id": 90,
+    "cliente_id": 53,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 91,
+    "cliente_id": 18,
+    "data_pedido": "2026-03-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 92,
+    "cliente_id": 68,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 93,
+    "cliente_id": 22,
+    "data_pedido": "2026-05-31",
+    "status": "Pendente"
+  },
+  {
+    "id": 94,
+    "cliente_id": 77,
+    "data_pedido": "2026-07-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 95,
+    "cliente_id": 59,
+    "data_pedido": "2026-01-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 96,
+    "cliente_id": 17,
+    "data_pedido": "2026-05-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 97,
+    "cliente_id": 75,
+    "data_pedido": "2026-05-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 98,
+    "cliente_id": 28,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 99,
+    "cliente_id": 11,
+    "data_pedido": "2026-05-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 100,
+    "cliente_id": 58,
+    "data_pedido": "2026-05-21",
+    "status": "Cancelado"
+  },
+  {
+    "id": 101,
+    "cliente_id": 66,
+    "data_pedido": "2026-09-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 102,
+    "cliente_id": 65,
+    "data_pedido": "2026-03-10",
+    "status": "Pendente"
+  },
+  {
+    "id": 103,
+    "cliente_id": 55,
+    "data_pedido": "2026-06-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 104,
+    "cliente_id": 47,
+    "data_pedido": "2026-04-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 105,
+    "cliente_id": 13,
+    "data_pedido": "2026-06-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 106,
+    "cliente_id": 86,
+    "data_pedido": "2026-09-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 107,
+    "cliente_id": 37,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 108,
+    "cliente_id": 17,
+    "data_pedido": "2026-10-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 109,
+    "cliente_id": 75,
+    "data_pedido": "2026-02-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 110,
+    "cliente_id": 31,
+    "data_pedido": "2026-05-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 111,
+    "cliente_id": 11,
+    "data_pedido": "2026-02-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 112,
+    "cliente_id": 18,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 113,
+    "cliente_id": 33,
+    "data_pedido": "2026-01-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 114,
+    "cliente_id": 54,
+    "data_pedido": "2026-04-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 115,
+    "cliente_id": 100,
+    "data_pedido": "2026-09-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 116,
+    "cliente_id": 3,
+    "data_pedido": "2026-03-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 117,
+    "cliente_id": 35,
+    "data_pedido": "2026-05-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 118,
+    "cliente_id": 58,
+    "data_pedido": "2026-06-06",
+    "status": "Pendente"
+  },
+  {
+    "id": 119,
+    "cliente_id": 70,
+    "data_pedido": "2026-06-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 120,
+    "cliente_id": 78,
+    "data_pedido": "2026-10-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 121,
+    "cliente_id": 24,
+    "data_pedido": "2026-02-04",
+    "status": "Cancelado"
+  },
+  {
+    "id": 122,
+    "cliente_id": 78,
+    "data_pedido": "2026-04-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 123,
+    "cliente_id": 4,
+    "data_pedido": "2026-06-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 124,
+    "cliente_id": 78,
+    "data_pedido": "2026-01-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 125,
+    "cliente_id": 34,
+    "data_pedido": "2026-01-16",
+    "status": "Cancelado"
+  },
+  {
+    "id": 126,
+    "cliente_id": 27,
+    "data_pedido": "2026-03-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 127,
+    "cliente_id": 27,
+    "data_pedido": "2026-01-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 128,
+    "cliente_id": 17,
+    "data_pedido": "2026-06-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 129,
+    "cliente_id": 97,
+    "data_pedido": "2026-04-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 130,
+    "cliente_id": 86,
+    "data_pedido": "2026-07-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 131,
+    "cliente_id": 79,
+    "data_pedido": "2026-09-23",
+    "status": "Pendente"
+  },
+  {
+    "id": 132,
+    "cliente_id": 86,
+    "data_pedido": "2026-03-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 133,
+    "cliente_id": 27,
+    "data_pedido": "2026-06-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 134,
+    "cliente_id": 63,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 135,
+    "cliente_id": 61,
+    "data_pedido": "2026-09-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 136,
+    "cliente_id": 56,
+    "data_pedido": "2026-07-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 137,
+    "cliente_id": 66,
+    "data_pedido": "2026-10-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 138,
+    "cliente_id": 27,
+    "data_pedido": "2026-04-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 139,
+    "cliente_id": 43,
+    "data_pedido": "2026-09-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 140,
+    "cliente_id": 95,
+    "data_pedido": "2026-09-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 141,
+    "cliente_id": 92,
+    "data_pedido": "2026-04-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 142,
+    "cliente_id": 60,
+    "data_pedido": "2026-01-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 143,
+    "cliente_id": 1,
+    "data_pedido": "2026-04-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 144,
+    "cliente_id": 11,
+    "data_pedido": "2026-03-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 145,
+    "cliente_id": 16,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 146,
+    "cliente_id": 47,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 147,
+    "cliente_id": 32,
+    "data_pedido": "2026-08-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 148,
+    "cliente_id": 11,
+    "data_pedido": "2026-10-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 149,
+    "cliente_id": 41,
+    "data_pedido": "2026-04-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 150,
+    "cliente_id": 85,
+    "data_pedido": "2026-01-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 151,
+    "cliente_id": 88,
+    "data_pedido": "2026-01-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 152,
+    "cliente_id": 34,
+    "data_pedido": "2026-07-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 153,
+    "cliente_id": 45,
+    "data_pedido": "2026-07-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 154,
+    "cliente_id": 86,
+    "data_pedido": "2026-04-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 155,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 156,
+    "cliente_id": 75,
+    "data_pedido": "2026-10-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 157,
+    "cliente_id": 87,
+    "data_pedido": "2026-06-16",
+    "status": "Pendente"
+  },
+  {
+    "id": 158,
+    "cliente_id": 26,
+    "data_pedido": "2026-03-23",
+    "status": "Cancelado"
+  },
+  {
+    "id": 159,
+    "cliente_id": 86,
+    "data_pedido": "2026-10-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 160,
+    "cliente_id": 62,
+    "data_pedido": "2026-08-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 161,
+    "cliente_id": 74,
+    "data_pedido": "2026-08-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 162,
+    "cliente_id": 85,
+    "data_pedido": "2026-10-20",
+    "status": "Pendente"
+  },
+  {
+    "id": 163,
+    "cliente_id": 23,
+    "data_pedido": "2026-09-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 164,
+    "cliente_id": 21,
+    "data_pedido": "2026-06-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 165,
+    "cliente_id": 60,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 166,
+    "cliente_id": 50,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 167,
+    "cliente_id": 24,
+    "data_pedido": "2026-02-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 168,
+    "cliente_id": 67,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 169,
+    "cliente_id": 55,
+    "data_pedido": "2026-04-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 170,
+    "cliente_id": 7,
+    "data_pedido": "2026-06-15",
+    "status": "Cancelado"
+  },
+  {
+    "id": 171,
+    "cliente_id": 72,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 172,
+    "cliente_id": 95,
+    "data_pedido": "2026-08-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 173,
+    "cliente_id": 44,
+    "data_pedido": "2026-09-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 174,
+    "cliente_id": 53,
+    "data_pedido": "2026-04-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 175,
+    "cliente_id": 11,
+    "data_pedido": "2026-04-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 176,
+    "cliente_id": 2,
+    "data_pedido": "2026-01-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 177,
+    "cliente_id": 25,
+    "data_pedido": "2026-05-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 178,
+    "cliente_id": 85,
+    "data_pedido": "2026-05-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 179,
+    "cliente_id": 88,
+    "data_pedido": "2026-04-05",
+    "status": "Cancelado"
+  },
+  {
+    "id": 180,
+    "cliente_id": 62,
+    "data_pedido": "2026-09-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 181,
+    "cliente_id": 30,
+    "data_pedido": "2026-08-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 182,
+    "cliente_id": 65,
+    "data_pedido": "2026-03-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 183,
+    "cliente_id": 52,
+    "data_pedido": "2026-05-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 184,
+    "cliente_id": 96,
+    "data_pedido": "2026-03-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 185,
+    "cliente_id": 78,
+    "data_pedido": "2026-08-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 186,
+    "cliente_id": 26,
+    "data_pedido": "2026-06-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 187,
+    "cliente_id": 49,
+    "data_pedido": "2026-07-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 188,
+    "cliente_id": 26,
+    "data_pedido": "2026-08-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 189,
+    "cliente_id": 89,
+    "data_pedido": "2026-08-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 190,
+    "cliente_id": 2,
+    "data_pedido": "2026-02-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 191,
+    "cliente_id": 74,
+    "data_pedido": "2026-04-25",
+    "status": "Pendente"
+  },
+  {
+    "id": 192,
+    "cliente_id": 94,
+    "data_pedido": "2026-07-24",
+    "status": "Cancelado"
+  },
+  {
+    "id": 193,
+    "cliente_id": 15,
+    "data_pedido": "2026-10-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 194,
+    "cliente_id": 12,
+    "data_pedido": "2026-04-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 195,
+    "cliente_id": 79,
+    "data_pedido": "2026-09-23",
+    "status": "Cancelado"
+  },
+  {
+    "id": 196,
+    "cliente_id": 16,
+    "data_pedido": "2026-08-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 197,
+    "cliente_id": 14,
+    "data_pedido": "2026-08-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 198,
+    "cliente_id": 24,
+    "data_pedido": "2026-07-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 199,
+    "cliente_id": 79,
+    "data_pedido": "2026-09-03",
+    "status": "Cancelado"
+  },
+  {
+    "id": 200,
+    "cliente_id": 25,
+    "data_pedido": "2026-09-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 201,
+    "cliente_id": 14,
+    "data_pedido": "2026-07-29",
+    "status": "Cancelado"
+  },
+  {
+    "id": 202,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 203,
+    "cliente_id": 6,
+    "data_pedido": "2026-07-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 204,
+    "cliente_id": 61,
+    "data_pedido": "2026-05-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 205,
+    "cliente_id": 85,
+    "data_pedido": "2026-01-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 206,
+    "cliente_id": 10,
+    "data_pedido": "2026-03-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 207,
+    "cliente_id": 71,
+    "data_pedido": "2026-05-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 208,
+    "cliente_id": 12,
+    "data_pedido": "2026-10-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 209,
+    "cliente_id": 66,
+    "data_pedido": "2026-01-15",
+    "status": "Cancelado"
+  },
+  {
+    "id": 210,
+    "cliente_id": 47,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 211,
+    "cliente_id": 86,
+    "data_pedido": "2026-09-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 212,
+    "cliente_id": 93,
+    "data_pedido": "2026-03-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 213,
+    "cliente_id": 26,
+    "data_pedido": "2026-09-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 214,
+    "cliente_id": 21,
+    "data_pedido": "2026-01-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 215,
+    "cliente_id": 79,
+    "data_pedido": "2026-02-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 216,
+    "cliente_id": 72,
+    "data_pedido": "2026-05-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 217,
+    "cliente_id": 86,
+    "data_pedido": "2026-06-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 218,
+    "cliente_id": 67,
+    "data_pedido": "2026-07-29",
+    "status": "Pendente"
+  },
+  {
+    "id": 219,
+    "cliente_id": 58,
+    "data_pedido": "2026-08-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 220,
+    "cliente_id": 21,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 221,
+    "cliente_id": 76,
+    "data_pedido": "2026-03-02",
+    "status": "Cancelado"
+  },
+  {
+    "id": 222,
+    "cliente_id": 3,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 223,
+    "cliente_id": 57,
+    "data_pedido": "2026-08-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 224,
+    "cliente_id": 71,
+    "data_pedido": "2026-07-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 225,
+    "cliente_id": 17,
+    "data_pedido": "2026-09-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 226,
+    "cliente_id": 96,
+    "data_pedido": "2026-04-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 227,
+    "cliente_id": 55,
+    "data_pedido": "2026-01-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 228,
+    "cliente_id": 16,
+    "data_pedido": "2026-10-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 229,
+    "cliente_id": 73,
+    "data_pedido": "2026-08-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 230,
+    "cliente_id": 51,
+    "data_pedido": "2026-05-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 231,
+    "cliente_id": 23,
+    "data_pedido": "2026-03-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 232,
+    "cliente_id": 68,
+    "data_pedido": "2026-06-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 233,
+    "cliente_id": 48,
+    "data_pedido": "2026-09-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 234,
+    "cliente_id": 64,
+    "data_pedido": "2026-04-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 235,
+    "cliente_id": 32,
+    "data_pedido": "2026-10-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 236,
+    "cliente_id": 27,
+    "data_pedido": "2026-06-25",
+    "status": "Pendente"
+  },
+  {
+    "id": 237,
+    "cliente_id": 34,
+    "data_pedido": "2026-01-14",
+    "status": "Pendente"
+  },
+  {
+    "id": 238,
+    "cliente_id": 37,
+    "data_pedido": "2026-03-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 239,
+    "cliente_id": 14,
+    "data_pedido": "2026-09-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 240,
+    "cliente_id": 80,
+    "data_pedido": "2026-08-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 241,
+    "cliente_id": 34,
+    "data_pedido": "2026-10-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 242,
+    "cliente_id": 56,
+    "data_pedido": "2026-10-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 243,
+    "cliente_id": 89,
+    "data_pedido": "2026-04-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 244,
+    "cliente_id": 9,
+    "data_pedido": "2026-02-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 245,
+    "cliente_id": 76,
+    "data_pedido": "2026-04-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 246,
+    "cliente_id": 4,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 247,
+    "cliente_id": 70,
+    "data_pedido": "2026-09-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 248,
+    "cliente_id": 79,
+    "data_pedido": "2026-01-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 249,
+    "cliente_id": 96,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 250,
+    "cliente_id": 18,
+    "data_pedido": "2026-09-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 251,
+    "cliente_id": 50,
+    "data_pedido": "2026-10-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 252,
+    "cliente_id": 47,
+    "data_pedido": "2026-09-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 253,
+    "cliente_id": 81,
+    "data_pedido": "2026-07-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 254,
+    "cliente_id": 40,
+    "data_pedido": "2026-01-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 255,
+    "cliente_id": 47,
+    "data_pedido": "2026-06-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 256,
+    "cliente_id": 78,
+    "data_pedido": "2026-06-21",
+    "status": "Pendente"
+  },
+  {
+    "id": 257,
+    "cliente_id": 80,
+    "data_pedido": "2026-02-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 258,
+    "cliente_id": 84,
+    "data_pedido": "2026-05-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 259,
+    "cliente_id": 84,
+    "data_pedido": "2026-07-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 260,
+    "cliente_id": 12,
+    "data_pedido": "2026-08-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 261,
+    "cliente_id": 60,
+    "data_pedido": "2026-08-03",
+    "status": "Cancelado"
+  },
+  {
+    "id": 262,
+    "cliente_id": 48,
+    "data_pedido": "2026-05-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 263,
+    "cliente_id": 63,
+    "data_pedido": "2026-10-10",
+    "status": "Cancelado"
+  },
+  {
+    "id": 264,
+    "cliente_id": 19,
+    "data_pedido": "2026-08-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 265,
+    "cliente_id": 66,
+    "data_pedido": "2026-03-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 266,
+    "cliente_id": 21,
+    "data_pedido": "2026-06-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 267,
+    "cliente_id": 63,
+    "data_pedido": "2026-08-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 268,
+    "cliente_id": 65,
+    "data_pedido": "2026-03-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 269,
+    "cliente_id": 47,
+    "data_pedido": "2026-01-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 270,
+    "cliente_id": 79,
+    "data_pedido": "2026-03-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 271,
+    "cliente_id": 84,
+    "data_pedido": "2026-01-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 272,
+    "cliente_id": 48,
+    "data_pedido": "2026-03-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 273,
+    "cliente_id": 56,
+    "data_pedido": "2026-06-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 274,
+    "cliente_id": 66,
+    "data_pedido": "2026-06-24",
+    "status": "Cancelado"
+  },
+  {
+    "id": 275,
+    "cliente_id": 43,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 276,
+    "cliente_id": 26,
+    "data_pedido": "2026-09-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 277,
+    "cliente_id": 18,
+    "data_pedido": "2026-08-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 278,
+    "cliente_id": 42,
+    "data_pedido": "2026-08-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 279,
+    "cliente_id": 44,
+    "data_pedido": "2026-08-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 280,
+    "cliente_id": 36,
+    "data_pedido": "2026-09-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 281,
+    "cliente_id": 79,
+    "data_pedido": "2026-07-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 282,
+    "cliente_id": 18,
+    "data_pedido": "2026-07-01",
+    "status": "Pendente"
+  },
+  {
+    "id": 283,
+    "cliente_id": 36,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 284,
+    "cliente_id": 94,
+    "data_pedido": "2026-05-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 285,
+    "cliente_id": 6,
+    "data_pedido": "2026-06-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 286,
+    "cliente_id": 20,
+    "data_pedido": "2026-06-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 287,
+    "cliente_id": 97,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 288,
+    "cliente_id": 63,
+    "data_pedido": "2026-08-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 289,
+    "cliente_id": 6,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 290,
+    "cliente_id": 84,
+    "data_pedido": "2026-10-12",
+    "status": "Pendente"
+  },
+  {
+    "id": 291,
+    "cliente_id": 5,
+    "data_pedido": "2026-01-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 292,
+    "cliente_id": 17,
+    "data_pedido": "2026-06-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 293,
+    "cliente_id": 66,
+    "data_pedido": "2026-05-16",
+    "status": "Pendente"
+  },
+  {
+    "id": 294,
+    "cliente_id": 93,
+    "data_pedido": "2026-05-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 295,
+    "cliente_id": 30,
+    "data_pedido": "2026-01-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 296,
+    "cliente_id": 38,
+    "data_pedido": "2026-08-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 297,
+    "cliente_id": 93,
+    "data_pedido": "2026-03-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 298,
+    "cliente_id": 28,
+    "data_pedido": "2026-07-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 299,
+    "cliente_id": 59,
+    "data_pedido": "2026-01-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 300,
+    "cliente_id": 62,
+    "data_pedido": "2026-09-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 301,
+    "cliente_id": 50,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 302,
+    "cliente_id": 89,
+    "data_pedido": "2026-02-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 303,
+    "cliente_id": 64,
+    "data_pedido": "2026-01-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 304,
+    "cliente_id": 16,
+    "data_pedido": "2026-08-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 305,
+    "cliente_id": 36,
+    "data_pedido": "2026-01-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 306,
+    "cliente_id": 45,
+    "data_pedido": "2026-03-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 307,
+    "cliente_id": 24,
+    "data_pedido": "2026-08-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 308,
+    "cliente_id": 88,
+    "data_pedido": "2026-10-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 309,
+    "cliente_id": 88,
+    "data_pedido": "2026-01-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 310,
+    "cliente_id": 22,
+    "data_pedido": "2026-01-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 311,
+    "cliente_id": 93,
+    "data_pedido": "2026-04-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 312,
+    "cliente_id": 47,
+    "data_pedido": "2026-03-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 313,
+    "cliente_id": 15,
+    "data_pedido": "2026-08-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 314,
+    "cliente_id": 34,
+    "data_pedido": "2026-06-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 315,
+    "cliente_id": 37,
+    "data_pedido": "2026-09-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 316,
+    "cliente_id": 20,
+    "data_pedido": "2026-09-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 317,
+    "cliente_id": 49,
+    "data_pedido": "2026-06-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 318,
+    "cliente_id": 45,
+    "data_pedido": "2026-07-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 319,
+    "cliente_id": 58,
+    "data_pedido": "2026-01-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 320,
+    "cliente_id": 1,
+    "data_pedido": "2026-09-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 321,
+    "cliente_id": 42,
+    "data_pedido": "2026-08-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 322,
+    "cliente_id": 10,
+    "data_pedido": "2026-10-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 323,
+    "cliente_id": 28,
+    "data_pedido": "2026-10-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 324,
+    "cliente_id": 53,
+    "data_pedido": "2026-02-21",
+    "status": "Pendente"
+  },
+  {
+    "id": 325,
+    "cliente_id": 44,
+    "data_pedido": "2026-02-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 326,
+    "cliente_id": 86,
+    "data_pedido": "2026-06-20",
+    "status": "Pendente"
+  },
+  {
+    "id": 327,
+    "cliente_id": 60,
+    "data_pedido": "2026-08-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 328,
+    "cliente_id": 63,
+    "data_pedido": "2026-04-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 329,
+    "cliente_id": 44,
+    "data_pedido": "2026-03-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 330,
+    "cliente_id": 81,
+    "data_pedido": "2026-07-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 331,
+    "cliente_id": 34,
+    "data_pedido": "2026-03-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 332,
+    "cliente_id": 40,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 333,
+    "cliente_id": 42,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 334,
+    "cliente_id": 30,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 335,
+    "cliente_id": 63,
+    "data_pedido": "2026-04-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 336,
+    "cliente_id": 11,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 337,
+    "cliente_id": 24,
+    "data_pedido": "2026-09-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 338,
+    "cliente_id": 27,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 339,
+    "cliente_id": 98,
+    "data_pedido": "2026-08-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 340,
+    "cliente_id": 13,
+    "data_pedido": "2026-08-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 341,
+    "cliente_id": 42,
+    "data_pedido": "2026-02-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 342,
+    "cliente_id": 74,
+    "data_pedido": "2026-03-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 343,
+    "cliente_id": 94,
+    "data_pedido": "2026-09-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 344,
+    "cliente_id": 45,
+    "data_pedido": "2026-10-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 345,
+    "cliente_id": 98,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 346,
+    "cliente_id": 72,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 347,
+    "cliente_id": 65,
+    "data_pedido": "2026-04-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 348,
+    "cliente_id": 34,
+    "data_pedido": "2026-01-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 349,
+    "cliente_id": 55,
+    "data_pedido": "2026-02-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 350,
+    "cliente_id": 63,
+    "data_pedido": "2026-07-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 351,
+    "cliente_id": 69,
+    "data_pedido": "2026-04-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 352,
+    "cliente_id": 3,
+    "data_pedido": "2026-02-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 353,
+    "cliente_id": 2,
+    "data_pedido": "2026-02-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 354,
+    "cliente_id": 42,
+    "data_pedido": "2026-01-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 355,
+    "cliente_id": 18,
+    "data_pedido": "2026-04-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 356,
+    "cliente_id": 78,
+    "data_pedido": "2026-09-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 357,
+    "cliente_id": 38,
+    "data_pedido": "2026-01-22",
+    "status": "Cancelado"
+  },
+  {
+    "id": 358,
+    "cliente_id": 20,
+    "data_pedido": "2026-08-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 359,
+    "cliente_id": 36,
+    "data_pedido": "2026-08-01",
+    "status": "Pendente"
+  },
+  {
+    "id": 360,
+    "cliente_id": 60,
+    "data_pedido": "2026-02-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 361,
+    "cliente_id": 80,
+    "data_pedido": "2026-04-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 362,
+    "cliente_id": 53,
+    "data_pedido": "2026-02-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 363,
+    "cliente_id": 97,
+    "data_pedido": "2026-06-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 364,
+    "cliente_id": 91,
+    "data_pedido": "2026-09-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 365,
+    "cliente_id": 87,
+    "data_pedido": "2026-08-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 366,
+    "cliente_id": 11,
+    "data_pedido": "2026-05-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 367,
+    "cliente_id": 14,
+    "data_pedido": "2026-02-04",
+    "status": "Cancelado"
+  },
+  {
+    "id": 368,
+    "cliente_id": 79,
+    "data_pedido": "2026-01-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 369,
+    "cliente_id": 1,
+    "data_pedido": "2026-08-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 370,
+    "cliente_id": 74,
+    "data_pedido": "2026-01-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 371,
+    "cliente_id": 16,
+    "data_pedido": "2026-08-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 372,
+    "cliente_id": 17,
+    "data_pedido": "2026-05-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 373,
+    "cliente_id": 36,
+    "data_pedido": "2026-07-06",
+    "status": "Pendente"
+  },
+  {
+    "id": 374,
+    "cliente_id": 7,
+    "data_pedido": "2026-03-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 375,
+    "cliente_id": 6,
+    "data_pedido": "2026-01-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 376,
+    "cliente_id": 70,
+    "data_pedido": "2026-02-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 377,
+    "cliente_id": 78,
+    "data_pedido": "2026-03-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 378,
+    "cliente_id": 8,
+    "data_pedido": "2026-06-08",
+    "status": "Cancelado"
+  },
+  {
+    "id": 379,
+    "cliente_id": 47,
+    "data_pedido": "2026-03-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 380,
+    "cliente_id": 38,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 381,
+    "cliente_id": 62,
+    "data_pedido": "2026-05-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 382,
+    "cliente_id": 46,
+    "data_pedido": "2026-01-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 383,
+    "cliente_id": 44,
+    "data_pedido": "2026-09-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 384,
+    "cliente_id": 21,
+    "data_pedido": "2026-03-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 385,
+    "cliente_id": 50,
+    "data_pedido": "2026-07-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 386,
+    "cliente_id": 37,
+    "data_pedido": "2026-01-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 387,
+    "cliente_id": 26,
+    "data_pedido": "2026-09-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 388,
+    "cliente_id": 8,
+    "data_pedido": "2026-09-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 389,
+    "cliente_id": 38,
+    "data_pedido": "2026-06-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 390,
+    "cliente_id": 38,
+    "data_pedido": "2026-09-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 391,
+    "cliente_id": 71,
+    "data_pedido": "2026-10-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 392,
+    "cliente_id": 75,
+    "data_pedido": "2026-05-09",
+    "status": "Cancelado"
+  },
+  {
+    "id": 393,
+    "cliente_id": 9,
+    "data_pedido": "2026-08-18",
+    "status": "Cancelado"
+  },
+  {
+    "id": 394,
+    "cliente_id": 10,
+    "data_pedido": "2026-04-23",
+    "status": "Pendente"
+  },
+  {
+    "id": 395,
+    "cliente_id": 12,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 396,
+    "cliente_id": 60,
+    "data_pedido": "2026-01-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 397,
+    "cliente_id": 93,
+    "data_pedido": "2026-09-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 398,
+    "cliente_id": 64,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 399,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-01",
+    "status": "Pendente"
+  },
+  {
+    "id": 400,
+    "cliente_id": 31,
+    "data_pedido": "2026-03-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 401,
+    "cliente_id": 64,
+    "data_pedido": "2026-02-28",
+    "status": "Pendente"
+  },
+  {
+    "id": 402,
+    "cliente_id": 4,
+    "data_pedido": "2026-04-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 403,
+    "cliente_id": 80,
+    "data_pedido": "2026-01-02",
+    "status": "Cancelado"
+  },
+  {
+    "id": 404,
+    "cliente_id": 25,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 405,
+    "cliente_id": 2,
+    "data_pedido": "2026-03-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 406,
+    "cliente_id": 86,
+    "data_pedido": "2026-01-28",
+    "status": "Pendente"
+  },
+  {
+    "id": 407,
+    "cliente_id": 34,
+    "data_pedido": "2026-08-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 408,
+    "cliente_id": 84,
+    "data_pedido": "2026-03-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 409,
+    "cliente_id": 58,
+    "data_pedido": "2026-06-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 410,
+    "cliente_id": 11,
+    "data_pedido": "2026-04-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 411,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 412,
+    "cliente_id": 97,
+    "data_pedido": "2026-10-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 413,
+    "cliente_id": 47,
+    "data_pedido": "2026-04-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 414,
+    "cliente_id": 88,
+    "data_pedido": "2026-02-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 415,
+    "cliente_id": 38,
+    "data_pedido": "2026-07-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 416,
+    "cliente_id": 90,
+    "data_pedido": "2026-02-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 417,
+    "cliente_id": 32,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 418,
+    "cliente_id": 83,
+    "data_pedido": "2026-04-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 419,
+    "cliente_id": 17,
+    "data_pedido": "2026-04-20",
+    "status": "Cancelado"
+  },
+  {
+    "id": 420,
+    "cliente_id": 43,
+    "data_pedido": "2026-02-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 421,
+    "cliente_id": 22,
+    "data_pedido": "2026-04-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 422,
+    "cliente_id": 90,
+    "data_pedido": "2026-06-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 423,
+    "cliente_id": 93,
+    "data_pedido": "2026-01-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 424,
+    "cliente_id": 12,
+    "data_pedido": "2026-08-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 425,
+    "cliente_id": 24,
+    "data_pedido": "2026-10-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 426,
+    "cliente_id": 58,
+    "data_pedido": "2026-09-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 427,
+    "cliente_id": 86,
+    "data_pedido": "2026-09-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 428,
+    "cliente_id": 9,
+    "data_pedido": "2026-06-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 429,
+    "cliente_id": 49,
+    "data_pedido": "2026-07-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 430,
+    "cliente_id": 42,
+    "data_pedido": "2026-06-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 431,
+    "cliente_id": 82,
+    "data_pedido": "2026-06-08",
+    "status": "Cancelado"
+  },
+  {
+    "id": 432,
+    "cliente_id": 77,
+    "data_pedido": "2026-01-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 433,
+    "cliente_id": 61,
+    "data_pedido": "2026-10-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 434,
+    "cliente_id": 89,
+    "data_pedido": "2026-03-30",
+    "status": "Cancelado"
+  },
+  {
+    "id": 435,
+    "cliente_id": 2,
+    "data_pedido": "2026-05-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 436,
+    "cliente_id": 32,
+    "data_pedido": "2026-02-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 437,
+    "cliente_id": 69,
+    "data_pedido": "2026-05-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 438,
+    "cliente_id": 44,
+    "data_pedido": "2026-08-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 439,
+    "cliente_id": 3,
+    "data_pedido": "2026-05-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 440,
+    "cliente_id": 65,
+    "data_pedido": "2026-03-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 441,
+    "cliente_id": 70,
+    "data_pedido": "2026-03-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 442,
+    "cliente_id": 25,
+    "data_pedido": "2026-04-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 443,
+    "cliente_id": 52,
+    "data_pedido": "2026-01-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 444,
+    "cliente_id": 98,
+    "data_pedido": "2026-04-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 445,
+    "cliente_id": 44,
+    "data_pedido": "2026-05-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 446,
+    "cliente_id": 25,
+    "data_pedido": "2026-01-17",
+    "status": "Cancelado"
+  },
+  {
+    "id": 447,
+    "cliente_id": 44,
+    "data_pedido": "2026-03-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 448,
+    "cliente_id": 35,
+    "data_pedido": "2026-01-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 449,
+    "cliente_id": 24,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 450,
+    "cliente_id": 55,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 451,
+    "cliente_id": 88,
+    "data_pedido": "2026-07-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 452,
+    "cliente_id": 74,
+    "data_pedido": "2026-10-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 453,
+    "cliente_id": 16,
+    "data_pedido": "2026-05-29",
+    "status": "Pendente"
+  },
+  {
+    "id": 454,
+    "cliente_id": 69,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 455,
+    "cliente_id": 97,
+    "data_pedido": "2026-01-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 456,
+    "cliente_id": 65,
+    "data_pedido": "2026-09-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 457,
+    "cliente_id": 82,
+    "data_pedido": "2026-01-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 458,
+    "cliente_id": 25,
+    "data_pedido": "2026-04-22",
+    "status": "Cancelado"
+  },
+  {
+    "id": 459,
+    "cliente_id": 9,
+    "data_pedido": "2026-03-06",
+    "status": "Pendente"
+  },
+  {
+    "id": 460,
+    "cliente_id": 87,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 461,
+    "cliente_id": 16,
+    "data_pedido": "2026-09-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 462,
+    "cliente_id": 13,
+    "data_pedido": "2026-04-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 463,
+    "cliente_id": 56,
+    "data_pedido": "2026-03-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 464,
+    "cliente_id": 84,
+    "data_pedido": "2026-10-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 465,
+    "cliente_id": 100,
+    "data_pedido": "2026-10-16",
+    "status": "Cancelado"
+  },
+  {
+    "id": 466,
+    "cliente_id": 44,
+    "data_pedido": "2026-07-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 467,
+    "cliente_id": 46,
+    "data_pedido": "2026-09-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 468,
+    "cliente_id": 65,
+    "data_pedido": "2026-04-05",
+    "status": "Cancelado"
+  },
+  {
+    "id": 469,
+    "cliente_id": 52,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 470,
+    "cliente_id": 75,
+    "data_pedido": "2026-02-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 471,
+    "cliente_id": 88,
+    "data_pedido": "2026-10-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 472,
+    "cliente_id": 34,
+    "data_pedido": "2026-02-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 473,
+    "cliente_id": 72,
+    "data_pedido": "2026-06-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 474,
+    "cliente_id": 49,
+    "data_pedido": "2026-05-29",
+    "status": "Cancelado"
+  },
+  {
+    "id": 475,
+    "cliente_id": 53,
+    "data_pedido": "2026-09-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 476,
+    "cliente_id": 13,
+    "data_pedido": "2026-03-29",
+    "status": "Pendente"
+  },
+  {
+    "id": 477,
+    "cliente_id": 84,
+    "data_pedido": "2026-08-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 478,
+    "cliente_id": 14,
+    "data_pedido": "2026-04-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 479,
+    "cliente_id": 63,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 480,
+    "cliente_id": 26,
+    "data_pedido": "2026-08-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 481,
+    "cliente_id": 94,
+    "data_pedido": "2026-07-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 482,
+    "cliente_id": 72,
+    "data_pedido": "2026-03-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 483,
+    "cliente_id": 60,
+    "data_pedido": "2026-02-06",
+    "status": "Cancelado"
+  },
+  {
+    "id": 484,
+    "cliente_id": 94,
+    "data_pedido": "2026-06-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 485,
+    "cliente_id": 40,
+    "data_pedido": "2026-04-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 486,
+    "cliente_id": 73,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 487,
+    "cliente_id": 44,
+    "data_pedido": "2026-09-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 488,
+    "cliente_id": 76,
+    "data_pedido": "2026-09-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 489,
+    "cliente_id": 75,
+    "data_pedido": "2026-08-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 490,
+    "cliente_id": 72,
+    "data_pedido": "2026-05-17",
+    "status": "Cancelado"
+  },
+  {
+    "id": 491,
+    "cliente_id": 87,
+    "data_pedido": "2026-06-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 492,
+    "cliente_id": 32,
+    "data_pedido": "2026-01-02",
+    "status": "Cancelado"
+  },
+  {
+    "id": 493,
+    "cliente_id": 1,
+    "data_pedido": "2026-01-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 494,
+    "cliente_id": 89,
+    "data_pedido": "2026-02-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 495,
+    "cliente_id": 69,
+    "data_pedido": "2026-07-09",
+    "status": "Cancelado"
+  },
+  {
+    "id": 496,
+    "cliente_id": 41,
+    "data_pedido": "2026-09-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 497,
+    "cliente_id": 92,
+    "data_pedido": "2026-10-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 498,
+    "cliente_id": 14,
+    "data_pedido": "2026-09-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 499,
+    "cliente_id": 21,
+    "data_pedido": "2026-09-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 500,
+    "cliente_id": 11,
+    "data_pedido": "2026-04-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 501,
+    "cliente_id": 95,
+    "data_pedido": "2026-08-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 502,
+    "cliente_id": 65,
+    "data_pedido": "2026-01-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 503,
+    "cliente_id": 22,
+    "data_pedido": "2026-04-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 504,
+    "cliente_id": 60,
+    "data_pedido": "2026-03-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 505,
+    "cliente_id": 44,
+    "data_pedido": "2026-04-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 506,
+    "cliente_id": 73,
+    "data_pedido": "2026-09-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 507,
+    "cliente_id": 31,
+    "data_pedido": "2026-08-27",
+    "status": "Cancelado"
+  },
+  {
+    "id": 508,
+    "cliente_id": 45,
+    "data_pedido": "2026-01-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 509,
+    "cliente_id": 52,
+    "data_pedido": "2026-08-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 510,
+    "cliente_id": 87,
+    "data_pedido": "2026-09-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 511,
+    "cliente_id": 38,
+    "data_pedido": "2026-03-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 512,
+    "cliente_id": 88,
+    "data_pedido": "2026-06-27",
+    "status": "Pendente"
+  },
+  {
+    "id": 513,
+    "cliente_id": 26,
+    "data_pedido": "2026-02-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 514,
+    "cliente_id": 53,
+    "data_pedido": "2026-06-16",
+    "status": "Pendente"
+  },
+  {
+    "id": 515,
+    "cliente_id": 68,
+    "data_pedido": "2026-05-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 516,
+    "cliente_id": 37,
+    "data_pedido": "2026-03-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 517,
+    "cliente_id": 100,
+    "data_pedido": "2026-09-25",
+    "status": "Cancelado"
+  },
+  {
+    "id": 518,
+    "cliente_id": 7,
+    "data_pedido": "2026-08-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 519,
+    "cliente_id": 78,
+    "data_pedido": "2026-10-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 520,
+    "cliente_id": 97,
+    "data_pedido": "2026-06-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 521,
+    "cliente_id": 24,
+    "data_pedido": "2026-05-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 522,
+    "cliente_id": 15,
+    "data_pedido": "2026-09-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 523,
+    "cliente_id": 10,
+    "data_pedido": "2026-04-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 524,
+    "cliente_id": 61,
+    "data_pedido": "2026-05-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 525,
+    "cliente_id": 50,
+    "data_pedido": "2026-08-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 526,
+    "cliente_id": 4,
+    "data_pedido": "2026-04-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 527,
+    "cliente_id": 99,
+    "data_pedido": "2026-04-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 528,
+    "cliente_id": 38,
+    "data_pedido": "2026-04-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 529,
+    "cliente_id": 81,
+    "data_pedido": "2026-09-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 530,
+    "cliente_id": 8,
+    "data_pedido": "2026-05-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 531,
+    "cliente_id": 11,
+    "data_pedido": "2026-01-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 532,
+    "cliente_id": 62,
+    "data_pedido": "2026-01-10",
+    "status": "Cancelado"
+  },
+  {
+    "id": 533,
+    "cliente_id": 28,
+    "data_pedido": "2026-08-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 534,
+    "cliente_id": 37,
+    "data_pedido": "2026-07-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 535,
+    "cliente_id": 88,
+    "data_pedido": "2026-02-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 536,
+    "cliente_id": 99,
+    "data_pedido": "2026-05-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 537,
+    "cliente_id": 16,
+    "data_pedido": "2026-10-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 538,
+    "cliente_id": 79,
+    "data_pedido": "2026-02-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 539,
+    "cliente_id": 37,
+    "data_pedido": "2026-01-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 540,
+    "cliente_id": 20,
+    "data_pedido": "2026-02-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 541,
+    "cliente_id": 50,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 542,
+    "cliente_id": 87,
+    "data_pedido": "2026-08-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 543,
+    "cliente_id": 52,
+    "data_pedido": "2026-01-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 544,
+    "cliente_id": 53,
+    "data_pedido": "2026-06-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 545,
+    "cliente_id": 34,
+    "data_pedido": "2026-02-17",
+    "status": "Cancelado"
+  },
+  {
+    "id": 546,
+    "cliente_id": 9,
+    "data_pedido": "2026-06-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 547,
+    "cliente_id": 80,
+    "data_pedido": "2026-08-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 548,
+    "cliente_id": 9,
+    "data_pedido": "2026-04-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 549,
+    "cliente_id": 10,
+    "data_pedido": "2026-09-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 550,
+    "cliente_id": 67,
+    "data_pedido": "2026-05-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 551,
+    "cliente_id": 61,
+    "data_pedido": "2026-01-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 552,
+    "cliente_id": 17,
+    "data_pedido": "2026-06-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 553,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 554,
+    "cliente_id": 91,
+    "data_pedido": "2026-09-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 555,
+    "cliente_id": 38,
+    "data_pedido": "2026-03-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 556,
+    "cliente_id": 25,
+    "data_pedido": "2026-04-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 557,
+    "cliente_id": 90,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 558,
+    "cliente_id": 62,
+    "data_pedido": "2026-10-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 559,
+    "cliente_id": 91,
+    "data_pedido": "2026-08-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 560,
+    "cliente_id": 33,
+    "data_pedido": "2026-05-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 561,
+    "cliente_id": 48,
+    "data_pedido": "2026-03-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 562,
+    "cliente_id": 28,
+    "data_pedido": "2026-01-01",
+    "status": "Cancelado"
+  },
+  {
+    "id": 563,
+    "cliente_id": 99,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 564,
+    "cliente_id": 23,
+    "data_pedido": "2026-07-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 565,
+    "cliente_id": 22,
+    "data_pedido": "2026-09-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 566,
+    "cliente_id": 9,
+    "data_pedido": "2026-07-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 567,
+    "cliente_id": 59,
+    "data_pedido": "2026-08-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 568,
+    "cliente_id": 3,
+    "data_pedido": "2026-02-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 569,
+    "cliente_id": 92,
+    "data_pedido": "2026-06-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 570,
+    "cliente_id": 75,
+    "data_pedido": "2026-07-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 571,
+    "cliente_id": 19,
+    "data_pedido": "2026-06-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 572,
+    "cliente_id": 40,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 573,
+    "cliente_id": 41,
+    "data_pedido": "2026-09-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 574,
+    "cliente_id": 8,
+    "data_pedido": "2026-02-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 575,
+    "cliente_id": 52,
+    "data_pedido": "2026-08-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 576,
+    "cliente_id": 74,
+    "data_pedido": "2026-10-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 577,
+    "cliente_id": 89,
+    "data_pedido": "2026-08-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 578,
+    "cliente_id": 80,
+    "data_pedido": "2026-10-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 579,
+    "cliente_id": 39,
+    "data_pedido": "2026-01-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 580,
+    "cliente_id": 17,
+    "data_pedido": "2026-07-04",
+    "status": "Cancelado"
+  },
+  {
+    "id": 581,
+    "cliente_id": 39,
+    "data_pedido": "2026-07-27",
+    "status": "Pendente"
+  },
+  {
+    "id": 582,
+    "cliente_id": 10,
+    "data_pedido": "2026-03-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 583,
+    "cliente_id": 83,
+    "data_pedido": "2026-01-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 584,
+    "cliente_id": 70,
+    "data_pedido": "2026-09-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 585,
+    "cliente_id": 45,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 586,
+    "cliente_id": 34,
+    "data_pedido": "2026-03-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 587,
+    "cliente_id": 99,
+    "data_pedido": "2026-07-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 588,
+    "cliente_id": 56,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 589,
+    "cliente_id": 53,
+    "data_pedido": "2026-06-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 590,
+    "cliente_id": 7,
+    "data_pedido": "2026-09-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 591,
+    "cliente_id": 97,
+    "data_pedido": "2026-07-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 592,
+    "cliente_id": 87,
+    "data_pedido": "2026-06-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 593,
+    "cliente_id": 20,
+    "data_pedido": "2026-10-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 594,
+    "cliente_id": 66,
+    "data_pedido": "2026-07-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 595,
+    "cliente_id": 91,
+    "data_pedido": "2026-04-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 596,
+    "cliente_id": 97,
+    "data_pedido": "2026-07-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 597,
+    "cliente_id": 58,
+    "data_pedido": "2026-08-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 598,
+    "cliente_id": 74,
+    "data_pedido": "2026-02-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 599,
+    "cliente_id": 40,
+    "data_pedido": "2026-02-23",
+    "status": "Pendente"
+  },
+  {
+    "id": 600,
+    "cliente_id": 33,
+    "data_pedido": "2026-03-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 601,
+    "cliente_id": 10,
+    "data_pedido": "2026-06-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 602,
+    "cliente_id": 12,
+    "data_pedido": "2026-08-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 603,
+    "cliente_id": 63,
+    "data_pedido": "2026-10-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 604,
+    "cliente_id": 34,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 605,
+    "cliente_id": 32,
+    "data_pedido": "2026-01-07",
+    "status": "Cancelado"
+  },
+  {
+    "id": 606,
+    "cliente_id": 9,
+    "data_pedido": "2026-08-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 607,
+    "cliente_id": 40,
+    "data_pedido": "2026-09-09",
+    "status": "Cancelado"
+  },
+  {
+    "id": 608,
+    "cliente_id": 43,
+    "data_pedido": "2026-08-28",
+    "status": "Pendente"
+  },
+  {
+    "id": 609,
+    "cliente_id": 83,
+    "data_pedido": "2026-03-27",
+    "status": "Pendente"
+  },
+  {
+    "id": 610,
+    "cliente_id": 21,
+    "data_pedido": "2026-01-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 611,
+    "cliente_id": 42,
+    "data_pedido": "2026-09-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 612,
+    "cliente_id": 11,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 613,
+    "cliente_id": 80,
+    "data_pedido": "2026-06-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 614,
+    "cliente_id": 80,
+    "data_pedido": "2026-10-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 615,
+    "cliente_id": 63,
+    "data_pedido": "2026-02-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 616,
+    "cliente_id": 44,
+    "data_pedido": "2026-05-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 617,
+    "cliente_id": 4,
+    "data_pedido": "2026-07-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 618,
+    "cliente_id": 42,
+    "data_pedido": "2026-06-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 619,
+    "cliente_id": 53,
+    "data_pedido": "2026-05-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 620,
+    "cliente_id": 33,
+    "data_pedido": "2026-04-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 621,
+    "cliente_id": 68,
+    "data_pedido": "2026-10-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 622,
+    "cliente_id": 91,
+    "data_pedido": "2026-06-25",
+    "status": "Cancelado"
+  },
+  {
+    "id": 623,
+    "cliente_id": 2,
+    "data_pedido": "2026-08-31",
+    "status": "Cancelado"
+  },
+  {
+    "id": 624,
+    "cliente_id": 70,
+    "data_pedido": "2026-02-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 625,
+    "cliente_id": 85,
+    "data_pedido": "2026-09-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 626,
+    "cliente_id": 53,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 627,
+    "cliente_id": 87,
+    "data_pedido": "2026-04-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 628,
+    "cliente_id": 32,
+    "data_pedido": "2026-01-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 629,
+    "cliente_id": 80,
+    "data_pedido": "2026-10-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 630,
+    "cliente_id": 63,
+    "data_pedido": "2026-05-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 631,
+    "cliente_id": 30,
+    "data_pedido": "2026-04-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 632,
+    "cliente_id": 13,
+    "data_pedido": "2026-08-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 633,
+    "cliente_id": 84,
+    "data_pedido": "2026-02-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 634,
+    "cliente_id": 63,
+    "data_pedido": "2026-06-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 635,
+    "cliente_id": 63,
+    "data_pedido": "2026-05-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 636,
+    "cliente_id": 67,
+    "data_pedido": "2026-04-12",
+    "status": "Pendente"
+  },
+  {
+    "id": 637,
+    "cliente_id": 50,
+    "data_pedido": "2026-05-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 638,
+    "cliente_id": 86,
+    "data_pedido": "2026-08-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 639,
+    "cliente_id": 81,
+    "data_pedido": "2026-06-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 640,
+    "cliente_id": 83,
+    "data_pedido": "2026-08-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 641,
+    "cliente_id": 29,
+    "data_pedido": "2026-02-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 642,
+    "cliente_id": 56,
+    "data_pedido": "2026-01-14",
+    "status": "Pendente"
+  },
+  {
+    "id": 643,
+    "cliente_id": 28,
+    "data_pedido": "2026-08-30",
+    "status": "Cancelado"
+  },
+  {
+    "id": 644,
+    "cliente_id": 31,
+    "data_pedido": "2026-08-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 645,
+    "cliente_id": 3,
+    "data_pedido": "2026-06-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 646,
+    "cliente_id": 75,
+    "data_pedido": "2026-04-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 647,
+    "cliente_id": 95,
+    "data_pedido": "2026-04-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 648,
+    "cliente_id": 42,
+    "data_pedido": "2026-06-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 649,
+    "cliente_id": 35,
+    "data_pedido": "2026-05-21",
+    "status": "Pendente"
+  },
+  {
+    "id": 650,
+    "cliente_id": 87,
+    "data_pedido": "2026-04-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 651,
+    "cliente_id": 89,
+    "data_pedido": "2026-06-21",
+    "status": "Cancelado"
+  },
+  {
+    "id": 652,
+    "cliente_id": 75,
+    "data_pedido": "2026-10-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 653,
+    "cliente_id": 96,
+    "data_pedido": "2026-07-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 654,
+    "cliente_id": 45,
+    "data_pedido": "2026-01-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 655,
+    "cliente_id": 4,
+    "data_pedido": "2026-09-09",
+    "status": "Cancelado"
+  },
+  {
+    "id": 656,
+    "cliente_id": 80,
+    "data_pedido": "2026-03-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 657,
+    "cliente_id": 53,
+    "data_pedido": "2026-02-28",
+    "status": "Pendente"
+  },
+  {
+    "id": 658,
+    "cliente_id": 44,
+    "data_pedido": "2026-10-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 659,
+    "cliente_id": 36,
+    "data_pedido": "2026-03-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 660,
+    "cliente_id": 70,
+    "data_pedido": "2026-10-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 661,
+    "cliente_id": 69,
+    "data_pedido": "2026-10-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 662,
+    "cliente_id": 58,
+    "data_pedido": "2026-08-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 663,
+    "cliente_id": 81,
+    "data_pedido": "2026-04-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 664,
+    "cliente_id": 57,
+    "data_pedido": "2026-08-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 665,
+    "cliente_id": 86,
+    "data_pedido": "2026-04-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 666,
+    "cliente_id": 73,
+    "data_pedido": "2026-07-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 667,
+    "cliente_id": 4,
+    "data_pedido": "2026-07-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 668,
+    "cliente_id": 8,
+    "data_pedido": "2026-10-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 669,
+    "cliente_id": 68,
+    "data_pedido": "2026-10-20",
+    "status": "Pendente"
+  },
+  {
+    "id": 670,
+    "cliente_id": 65,
+    "data_pedido": "2026-09-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 671,
+    "cliente_id": 50,
+    "data_pedido": "2026-01-27",
+    "status": "Pendente"
+  },
+  {
+    "id": 672,
+    "cliente_id": 84,
+    "data_pedido": "2026-07-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 673,
+    "cliente_id": 64,
+    "data_pedido": "2026-04-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 674,
+    "cliente_id": 7,
+    "data_pedido": "2026-09-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 675,
+    "cliente_id": 61,
+    "data_pedido": "2026-04-29",
+    "status": "Pendente"
+  },
+  {
+    "id": 676,
+    "cliente_id": 62,
+    "data_pedido": "2026-07-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 677,
+    "cliente_id": 41,
+    "data_pedido": "2026-07-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 678,
+    "cliente_id": 1,
+    "data_pedido": "2026-03-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 679,
+    "cliente_id": 85,
+    "data_pedido": "2026-02-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 680,
+    "cliente_id": 23,
+    "data_pedido": "2026-05-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 681,
+    "cliente_id": 54,
+    "data_pedido": "2026-10-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 682,
+    "cliente_id": 21,
+    "data_pedido": "2026-06-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 683,
+    "cliente_id": 62,
+    "data_pedido": "2026-07-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 684,
+    "cliente_id": 61,
+    "data_pedido": "2026-03-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 685,
+    "cliente_id": 42,
+    "data_pedido": "2026-01-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 686,
+    "cliente_id": 80,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 687,
+    "cliente_id": 5,
+    "data_pedido": "2026-07-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 688,
+    "cliente_id": 67,
+    "data_pedido": "2026-09-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 689,
+    "cliente_id": 17,
+    "data_pedido": "2026-04-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 690,
+    "cliente_id": 72,
+    "data_pedido": "2026-08-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 691,
+    "cliente_id": 54,
+    "data_pedido": "2026-09-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 692,
+    "cliente_id": 11,
+    "data_pedido": "2026-07-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 693,
+    "cliente_id": 97,
+    "data_pedido": "2026-03-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 694,
+    "cliente_id": 72,
+    "data_pedido": "2026-09-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 695,
+    "cliente_id": 60,
+    "data_pedido": "2026-05-15",
+    "status": "Cancelado"
+  },
+  {
+    "id": 696,
+    "cliente_id": 19,
+    "data_pedido": "2026-04-22",
+    "status": "Cancelado"
+  },
+  {
+    "id": 697,
+    "cliente_id": 23,
+    "data_pedido": "2026-09-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 698,
+    "cliente_id": 23,
+    "data_pedido": "2026-03-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 699,
+    "cliente_id": 30,
+    "data_pedido": "2026-04-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 700,
+    "cliente_id": 4,
+    "data_pedido": "2026-10-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 701,
+    "cliente_id": 38,
+    "data_pedido": "2026-01-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 702,
+    "cliente_id": 93,
+    "data_pedido": "2026-07-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 703,
+    "cliente_id": 1,
+    "data_pedido": "2026-05-25",
+    "status": "Cancelado"
+  },
+  {
+    "id": 704,
+    "cliente_id": 68,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 705,
+    "cliente_id": 92,
+    "data_pedido": "2026-05-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 706,
+    "cliente_id": 60,
+    "data_pedido": "2026-01-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 707,
+    "cliente_id": 33,
+    "data_pedido": "2026-07-08",
+    "status": "Cancelado"
+  },
+  {
+    "id": 708,
+    "cliente_id": 51,
+    "data_pedido": "2026-09-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 709,
+    "cliente_id": 56,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 710,
+    "cliente_id": 63,
+    "data_pedido": "2026-06-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 711,
+    "cliente_id": 8,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 712,
+    "cliente_id": 47,
+    "data_pedido": "2026-01-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 713,
+    "cliente_id": 71,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 714,
+    "cliente_id": 35,
+    "data_pedido": "2026-03-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 715,
+    "cliente_id": 82,
+    "data_pedido": "2026-06-07",
+    "status": "Cancelado"
+  },
+  {
+    "id": 716,
+    "cliente_id": 97,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 717,
+    "cliente_id": 12,
+    "data_pedido": "2026-04-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 718,
+    "cliente_id": 73,
+    "data_pedido": "2026-05-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 719,
+    "cliente_id": 83,
+    "data_pedido": "2026-10-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 720,
+    "cliente_id": 100,
+    "data_pedido": "2026-09-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 721,
+    "cliente_id": 31,
+    "data_pedido": "2026-04-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 722,
+    "cliente_id": 55,
+    "data_pedido": "2026-02-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 723,
+    "cliente_id": 31,
+    "data_pedido": "2026-06-09",
+    "status": "Entregue"
+  },
+  {
+    "id": 724,
+    "cliente_id": 81,
+    "data_pedido": "2026-05-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 725,
+    "cliente_id": 44,
+    "data_pedido": "2026-08-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 726,
+    "cliente_id": 53,
+    "data_pedido": "2026-02-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 727,
+    "cliente_id": 71,
+    "data_pedido": "2026-08-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 728,
+    "cliente_id": 7,
+    "data_pedido": "2026-04-29",
+    "status": "Cancelado"
+  },
+  {
+    "id": 729,
+    "cliente_id": 85,
+    "data_pedido": "2026-02-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 730,
+    "cliente_id": 77,
+    "data_pedido": "2026-04-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 731,
+    "cliente_id": 83,
+    "data_pedido": "2026-07-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 732,
+    "cliente_id": 3,
+    "data_pedido": "2026-05-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 733,
+    "cliente_id": 61,
+    "data_pedido": "2026-04-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 734,
+    "cliente_id": 15,
+    "data_pedido": "2026-06-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 735,
+    "cliente_id": 100,
+    "data_pedido": "2026-02-11",
+    "status": "Cancelado"
+  },
+  {
+    "id": 736,
+    "cliente_id": 69,
+    "data_pedido": "2026-06-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 737,
+    "cliente_id": 13,
+    "data_pedido": "2026-10-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 738,
+    "cliente_id": 75,
+    "data_pedido": "2026-09-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 739,
+    "cliente_id": 97,
+    "data_pedido": "2026-08-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 740,
+    "cliente_id": 92,
+    "data_pedido": "2026-07-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 741,
+    "cliente_id": 61,
+    "data_pedido": "2026-06-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 742,
+    "cliente_id": 45,
+    "data_pedido": "2026-03-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 743,
+    "cliente_id": 79,
+    "data_pedido": "2026-07-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 744,
+    "cliente_id": 26,
+    "data_pedido": "2026-03-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 745,
+    "cliente_id": 100,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 746,
+    "cliente_id": 50,
+    "data_pedido": "2026-05-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 747,
+    "cliente_id": 36,
+    "data_pedido": "2026-05-14",
+    "status": "Cancelado"
+  },
+  {
+    "id": 748,
+    "cliente_id": 76,
+    "data_pedido": "2026-03-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 749,
+    "cliente_id": 61,
+    "data_pedido": "2026-07-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 750,
+    "cliente_id": 45,
+    "data_pedido": "2026-01-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 751,
+    "cliente_id": 69,
+    "data_pedido": "2026-05-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 752,
+    "cliente_id": 39,
+    "data_pedido": "2026-04-21",
+    "status": "Cancelado"
+  },
+  {
+    "id": 753,
+    "cliente_id": 90,
+    "data_pedido": "2026-09-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 754,
+    "cliente_id": 76,
+    "data_pedido": "2026-09-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 755,
+    "cliente_id": 20,
+    "data_pedido": "2026-10-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 756,
+    "cliente_id": 71,
+    "data_pedido": "2026-08-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 757,
+    "cliente_id": 84,
+    "data_pedido": "2026-06-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 758,
+    "cliente_id": 18,
+    "data_pedido": "2026-09-25",
+    "status": "Cancelado"
+  },
+  {
+    "id": 759,
+    "cliente_id": 69,
+    "data_pedido": "2026-09-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 760,
+    "cliente_id": 97,
+    "data_pedido": "2026-05-23",
+    "status": "Cancelado"
+  },
+  {
+    "id": 761,
+    "cliente_id": 83,
+    "data_pedido": "2026-09-13",
+    "status": "Cancelado"
+  },
+  {
+    "id": 762,
+    "cliente_id": 64,
+    "data_pedido": "2026-07-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 763,
+    "cliente_id": 2,
+    "data_pedido": "2026-08-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 764,
+    "cliente_id": 26,
+    "data_pedido": "2026-06-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 765,
+    "cliente_id": 40,
+    "data_pedido": "2026-02-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 766,
+    "cliente_id": 47,
+    "data_pedido": "2026-08-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 767,
+    "cliente_id": 28,
+    "data_pedido": "2026-05-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 768,
+    "cliente_id": 30,
+    "data_pedido": "2026-07-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 769,
+    "cliente_id": 59,
+    "data_pedido": "2026-08-11",
+    "status": "Cancelado"
+  },
+  {
+    "id": 770,
+    "cliente_id": 28,
+    "data_pedido": "2026-03-31",
+    "status": "Pendente"
+  },
+  {
+    "id": 771,
+    "cliente_id": 34,
+    "data_pedido": "2026-10-20",
+    "status": "Pendente"
+  },
+  {
+    "id": 772,
+    "cliente_id": 5,
+    "data_pedido": "2026-02-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 773,
+    "cliente_id": 80,
+    "data_pedido": "2026-02-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 774,
+    "cliente_id": 46,
+    "data_pedido": "2026-02-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 775,
+    "cliente_id": 32,
+    "data_pedido": "2026-06-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 776,
+    "cliente_id": 71,
+    "data_pedido": "2026-09-25",
+    "status": "Pendente"
+  },
+  {
+    "id": 777,
+    "cliente_id": 24,
+    "data_pedido": "2026-05-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 778,
+    "cliente_id": 79,
+    "data_pedido": "2026-01-27",
+    "status": "Cancelado"
+  },
+  {
+    "id": 779,
+    "cliente_id": 65,
+    "data_pedido": "2026-10-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 780,
+    "cliente_id": 82,
+    "data_pedido": "2026-03-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 781,
+    "cliente_id": 68,
+    "data_pedido": "2026-01-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 782,
+    "cliente_id": 91,
+    "data_pedido": "2026-02-08",
+    "status": "Cancelado"
+  },
+  {
+    "id": 783,
+    "cliente_id": 61,
+    "data_pedido": "2026-06-16",
+    "status": "Cancelado"
+  },
+  {
+    "id": 784,
+    "cliente_id": 64,
+    "data_pedido": "2026-01-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 785,
+    "cliente_id": 99,
+    "data_pedido": "2026-02-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 786,
+    "cliente_id": 48,
+    "data_pedido": "2026-07-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 787,
+    "cliente_id": 75,
+    "data_pedido": "2026-04-17",
+    "status": "Cancelado"
+  },
+  {
+    "id": 788,
+    "cliente_id": 72,
+    "data_pedido": "2026-01-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 789,
+    "cliente_id": 38,
+    "data_pedido": "2026-06-02",
+    "status": "Cancelado"
+  },
+  {
+    "id": 790,
+    "cliente_id": 48,
+    "data_pedido": "2026-03-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 791,
+    "cliente_id": 35,
+    "data_pedido": "2026-01-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 792,
+    "cliente_id": 97,
+    "data_pedido": "2026-06-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 793,
+    "cliente_id": 61,
+    "data_pedido": "2026-02-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 794,
+    "cliente_id": 34,
+    "data_pedido": "2026-08-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 795,
+    "cliente_id": 58,
+    "data_pedido": "2026-06-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 796,
+    "cliente_id": 19,
+    "data_pedido": "2026-06-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 797,
+    "cliente_id": 45,
+    "data_pedido": "2026-09-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 798,
+    "cliente_id": 10,
+    "data_pedido": "2026-06-17",
+    "status": "Cancelado"
+  },
+  {
+    "id": 799,
+    "cliente_id": 91,
+    "data_pedido": "2026-03-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 800,
+    "cliente_id": 95,
+    "data_pedido": "2026-03-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 801,
+    "cliente_id": 27,
+    "data_pedido": "2026-05-18",
+    "status": "Pendente"
+  },
+  {
+    "id": 802,
+    "cliente_id": 63,
+    "data_pedido": "2026-06-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 803,
+    "cliente_id": 24,
+    "data_pedido": "2026-03-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 804,
+    "cliente_id": 80,
+    "data_pedido": "2026-08-21",
+    "status": "Cancelado"
+  },
+  {
+    "id": 805,
+    "cliente_id": 30,
+    "data_pedido": "2026-08-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 806,
+    "cliente_id": 51,
+    "data_pedido": "2026-07-29",
+    "status": "Pendente"
+  },
+  {
+    "id": 807,
+    "cliente_id": 80,
+    "data_pedido": "2026-10-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 808,
+    "cliente_id": 2,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 809,
+    "cliente_id": 95,
+    "data_pedido": "2026-03-09",
+    "status": "Cancelado"
+  },
+  {
+    "id": 810,
+    "cliente_id": 99,
+    "data_pedido": "2026-09-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 811,
+    "cliente_id": 84,
+    "data_pedido": "2026-05-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 812,
+    "cliente_id": 7,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 813,
+    "cliente_id": 19,
+    "data_pedido": "2026-07-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 814,
+    "cliente_id": 85,
+    "data_pedido": "2026-03-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 815,
+    "cliente_id": 55,
+    "data_pedido": "2026-06-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 816,
+    "cliente_id": 83,
+    "data_pedido": "2026-05-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 817,
+    "cliente_id": 95,
+    "data_pedido": "2026-01-06",
+    "status": "Cancelado"
+  },
+  {
+    "id": 818,
+    "cliente_id": 5,
+    "data_pedido": "2026-10-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 819,
+    "cliente_id": 43,
+    "data_pedido": "2026-06-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 820,
+    "cliente_id": 93,
+    "data_pedido": "2026-07-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 821,
+    "cliente_id": 62,
+    "data_pedido": "2026-10-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 822,
+    "cliente_id": 13,
+    "data_pedido": "2026-08-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 823,
+    "cliente_id": 88,
+    "data_pedido": "2026-05-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 824,
+    "cliente_id": 85,
+    "data_pedido": "2026-01-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 825,
+    "cliente_id": 72,
+    "data_pedido": "2026-03-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 826,
+    "cliente_id": 49,
+    "data_pedido": "2026-04-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 827,
+    "cliente_id": 48,
+    "data_pedido": "2026-02-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 828,
+    "cliente_id": 5,
+    "data_pedido": "2026-01-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 829,
+    "cliente_id": 90,
+    "data_pedido": "2026-02-16",
+    "status": "Cancelado"
+  },
+  {
+    "id": 830,
+    "cliente_id": 62,
+    "data_pedido": "2026-09-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 831,
+    "cliente_id": 13,
+    "data_pedido": "2026-03-17",
+    "status": "Pendente"
+  },
+  {
+    "id": 832,
+    "cliente_id": 85,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 833,
+    "cliente_id": 13,
+    "data_pedido": "2026-09-23",
+    "status": "Pendente"
+  },
+  {
+    "id": 834,
+    "cliente_id": 81,
+    "data_pedido": "2026-10-19",
+    "status": "Pendente"
+  },
+  {
+    "id": 835,
+    "cliente_id": 54,
+    "data_pedido": "2026-10-12",
+    "status": "Pendente"
+  },
+  {
+    "id": 836,
+    "cliente_id": 14,
+    "data_pedido": "2026-07-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 837,
+    "cliente_id": 26,
+    "data_pedido": "2026-05-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 838,
+    "cliente_id": 53,
+    "data_pedido": "2026-03-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 839,
+    "cliente_id": 1,
+    "data_pedido": "2026-08-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 840,
+    "cliente_id": 62,
+    "data_pedido": "2026-01-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 841,
+    "cliente_id": 47,
+    "data_pedido": "2026-05-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 842,
+    "cliente_id": 43,
+    "data_pedido": "2026-08-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 843,
+    "cliente_id": 5,
+    "data_pedido": "2026-05-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 844,
+    "cliente_id": 97,
+    "data_pedido": "2026-02-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 845,
+    "cliente_id": 95,
+    "data_pedido": "2026-10-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 846,
+    "cliente_id": 61,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 847,
+    "cliente_id": 79,
+    "data_pedido": "2026-08-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 848,
+    "cliente_id": 66,
+    "data_pedido": "2026-04-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 849,
+    "cliente_id": 13,
+    "data_pedido": "2026-04-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 850,
+    "cliente_id": 9,
+    "data_pedido": "2026-03-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 851,
+    "cliente_id": 92,
+    "data_pedido": "2026-03-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 852,
+    "cliente_id": 96,
+    "data_pedido": "2026-04-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 853,
+    "cliente_id": 17,
+    "data_pedido": "2026-09-16",
+    "status": "Entregue"
+  },
+  {
+    "id": 854,
+    "cliente_id": 86,
+    "data_pedido": "2026-06-02",
+    "status": "Pendente"
+  },
+  {
+    "id": 855,
+    "cliente_id": 61,
+    "data_pedido": "2026-06-19",
+    "status": "Cancelado"
+  },
+  {
+    "id": 856,
+    "cliente_id": 4,
+    "data_pedido": "2026-05-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 857,
+    "cliente_id": 64,
+    "data_pedido": "2026-05-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 858,
+    "cliente_id": 57,
+    "data_pedido": "2026-03-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 859,
+    "cliente_id": 10,
+    "data_pedido": "2026-04-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 860,
+    "cliente_id": 23,
+    "data_pedido": "2026-01-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 861,
+    "cliente_id": 95,
+    "data_pedido": "2026-04-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 862,
+    "cliente_id": 37,
+    "data_pedido": "2026-07-31",
+    "status": "Entregue"
+  },
+  {
+    "id": 863,
+    "cliente_id": 100,
+    "data_pedido": "2026-05-27",
+    "status": "Pendente"
+  },
+  {
+    "id": 864,
+    "cliente_id": 2,
+    "data_pedido": "2026-06-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 865,
+    "cliente_id": 17,
+    "data_pedido": "2026-08-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 866,
+    "cliente_id": 90,
+    "data_pedido": "2026-05-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 867,
+    "cliente_id": 74,
+    "data_pedido": "2026-06-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 868,
+    "cliente_id": 69,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 869,
+    "cliente_id": 37,
+    "data_pedido": "2026-09-14",
+    "status": "Pendente"
+  },
+  {
+    "id": 870,
+    "cliente_id": 52,
+    "data_pedido": "2026-03-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 871,
+    "cliente_id": 89,
+    "data_pedido": "2026-01-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 872,
+    "cliente_id": 34,
+    "data_pedido": "2026-06-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 873,
+    "cliente_id": 62,
+    "data_pedido": "2026-02-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 874,
+    "cliente_id": 30,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 875,
+    "cliente_id": 72,
+    "data_pedido": "2026-09-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 876,
+    "cliente_id": 41,
+    "data_pedido": "2026-08-22",
+    "status": "Cancelado"
+  },
+  {
+    "id": 877,
+    "cliente_id": 75,
+    "data_pedido": "2026-04-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 878,
+    "cliente_id": 69,
+    "data_pedido": "2026-07-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 879,
+    "cliente_id": 88,
+    "data_pedido": "2026-03-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 880,
+    "cliente_id": 11,
+    "data_pedido": "2026-02-20",
+    "status": "Pendente"
+  },
+  {
+    "id": 881,
+    "cliente_id": 29,
+    "data_pedido": "2026-09-10",
+    "status": "Pendente"
+  },
+  {
+    "id": 882,
+    "cliente_id": 41,
+    "data_pedido": "2026-09-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 883,
+    "cliente_id": 71,
+    "data_pedido": "2026-04-07",
+    "status": "Entregue"
+  },
+  {
+    "id": 884,
+    "cliente_id": 89,
+    "data_pedido": "2026-07-31",
+    "status": "Cancelado"
+  },
+  {
+    "id": 885,
+    "cliente_id": 63,
+    "data_pedido": "2026-07-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 886,
+    "cliente_id": 24,
+    "data_pedido": "2026-04-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 887,
+    "cliente_id": 54,
+    "data_pedido": "2026-02-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 888,
+    "cliente_id": 21,
+    "data_pedido": "2026-05-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 889,
+    "cliente_id": 4,
+    "data_pedido": "2026-06-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 890,
+    "cliente_id": 18,
+    "data_pedido": "2026-07-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 891,
+    "cliente_id": 74,
+    "data_pedido": "2026-10-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 892,
+    "cliente_id": 6,
+    "data_pedido": "2026-05-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 893,
+    "cliente_id": 5,
+    "data_pedido": "2026-04-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 894,
+    "cliente_id": 68,
+    "data_pedido": "2026-02-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 895,
+    "cliente_id": 35,
+    "data_pedido": "2026-01-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 896,
+    "cliente_id": 2,
+    "data_pedido": "2026-05-25",
+    "status": "Pendente"
+  },
+  {
+    "id": 897,
+    "cliente_id": 30,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 898,
+    "cliente_id": 96,
+    "data_pedido": "2026-08-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 899,
+    "cliente_id": 93,
+    "data_pedido": "2026-05-26",
+    "status": "Cancelado"
+  },
+  {
+    "id": 900,
+    "cliente_id": 16,
+    "data_pedido": "2026-04-08",
+    "status": "Cancelado"
+  },
+  {
+    "id": 901,
+    "cliente_id": 72,
+    "data_pedido": "2026-02-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 902,
+    "cliente_id": 57,
+    "data_pedido": "2026-07-30",
+    "status": "Entregue"
+  },
+  {
+    "id": 903,
+    "cliente_id": 12,
+    "data_pedido": "2026-03-05",
+    "status": "Pendente"
+  },
+  {
+    "id": 904,
+    "cliente_id": 19,
+    "data_pedido": "2026-07-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 905,
+    "cliente_id": 96,
+    "data_pedido": "2026-04-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 906,
+    "cliente_id": 60,
+    "data_pedido": "2026-02-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 907,
+    "cliente_id": 20,
+    "data_pedido": "2026-08-31",
+    "status": "Pendente"
+  },
+  {
+    "id": 908,
+    "cliente_id": 52,
+    "data_pedido": "2026-07-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 909,
+    "cliente_id": 57,
+    "data_pedido": "2026-01-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 910,
+    "cliente_id": 91,
+    "data_pedido": "2026-06-09",
+    "status": "Pendente"
+  },
+  {
+    "id": 911,
+    "cliente_id": 19,
+    "data_pedido": "2026-01-04",
+    "status": "Pendente"
+  },
+  {
+    "id": 912,
+    "cliente_id": 17,
+    "data_pedido": "2026-06-22",
+    "status": "Entregue"
+  },
+  {
+    "id": 913,
+    "cliente_id": 65,
+    "data_pedido": "2026-10-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 914,
+    "cliente_id": 71,
+    "data_pedido": "2026-10-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 915,
+    "cliente_id": 26,
+    "data_pedido": "2026-07-15",
+    "status": "Pendente"
+  },
+  {
+    "id": 916,
+    "cliente_id": 84,
+    "data_pedido": "2026-10-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 917,
+    "cliente_id": 20,
+    "data_pedido": "2026-04-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 918,
+    "cliente_id": 97,
+    "data_pedido": "2026-09-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 919,
+    "cliente_id": 65,
+    "data_pedido": "2026-02-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 920,
+    "cliente_id": 22,
+    "data_pedido": "2026-09-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 921,
+    "cliente_id": 34,
+    "data_pedido": "2026-01-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 922,
+    "cliente_id": 82,
+    "data_pedido": "2026-03-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 923,
+    "cliente_id": 62,
+    "data_pedido": "2026-07-23",
+    "status": "Entregue"
+  },
+  {
+    "id": 924,
+    "cliente_id": 72,
+    "data_pedido": "2026-04-30",
+    "status": "Pendente"
+  },
+  {
+    "id": 925,
+    "cliente_id": 10,
+    "data_pedido": "2026-09-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 926,
+    "cliente_id": 6,
+    "data_pedido": "2026-05-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 927,
+    "cliente_id": 87,
+    "data_pedido": "2026-04-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 928,
+    "cliente_id": 39,
+    "data_pedido": "2026-06-26",
+    "status": "Pendente"
+  },
+  {
+    "id": 929,
+    "cliente_id": 25,
+    "data_pedido": "2026-07-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 930,
+    "cliente_id": 4,
+    "data_pedido": "2026-04-13",
+    "status": "Entregue"
+  },
+  {
+    "id": 931,
+    "cliente_id": 95,
+    "data_pedido": "2026-04-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 932,
+    "cliente_id": 46,
+    "data_pedido": "2026-02-11",
+    "status": "Cancelado"
+  },
+  {
+    "id": 933,
+    "cliente_id": 51,
+    "data_pedido": "2026-08-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 934,
+    "cliente_id": 34,
+    "data_pedido": "2026-07-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 935,
+    "cliente_id": 80,
+    "data_pedido": "2026-08-18",
+    "status": "Entregue"
+  },
+  {
+    "id": 936,
+    "cliente_id": 83,
+    "data_pedido": "2026-01-21",
+    "status": "Pendente"
+  },
+  {
+    "id": 937,
+    "cliente_id": 89,
+    "data_pedido": "2026-05-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 938,
+    "cliente_id": 8,
+    "data_pedido": "2026-07-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 939,
+    "cliente_id": 22,
+    "data_pedido": "2026-03-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 940,
+    "cliente_id": 90,
+    "data_pedido": "2026-02-15",
+    "status": "Entregue"
+  },
+  {
+    "id": 941,
+    "cliente_id": 63,
+    "data_pedido": "2026-07-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 942,
+    "cliente_id": 1,
+    "data_pedido": "2026-01-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 943,
+    "cliente_id": 3,
+    "data_pedido": "2026-06-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 944,
+    "cliente_id": 63,
+    "data_pedido": "2026-01-11",
+    "status": "Pendente"
+  },
+  {
+    "id": 945,
+    "cliente_id": 23,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 946,
+    "cliente_id": 36,
+    "data_pedido": "2026-05-07",
+    "status": "Pendente"
+  },
+  {
+    "id": 947,
+    "cliente_id": 40,
+    "data_pedido": "2026-06-01",
+    "status": "Cancelado"
+  },
+  {
+    "id": 948,
+    "cliente_id": 29,
+    "data_pedido": "2026-01-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 949,
+    "cliente_id": 81,
+    "data_pedido": "2026-01-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 950,
+    "cliente_id": 13,
+    "data_pedido": "2026-04-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 951,
+    "cliente_id": 18,
+    "data_pedido": "2026-05-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 952,
+    "cliente_id": 46,
+    "data_pedido": "2026-06-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 953,
+    "cliente_id": 93,
+    "data_pedido": "2026-01-13",
+    "status": "Cancelado"
+  },
+  {
+    "id": 954,
+    "cliente_id": 50,
+    "data_pedido": "2026-02-02",
+    "status": "Cancelado"
+  },
+  {
+    "id": 955,
+    "cliente_id": 33,
+    "data_pedido": "2026-08-21",
+    "status": "Entregue"
+  },
+  {
+    "id": 956,
+    "cliente_id": 65,
+    "data_pedido": "2026-10-15",
+    "status": "Cancelado"
+  },
+  {
+    "id": 957,
+    "cliente_id": 45,
+    "data_pedido": "2026-01-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 958,
+    "cliente_id": 34,
+    "data_pedido": "2026-09-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 959,
+    "cliente_id": 49,
+    "data_pedido": "2026-09-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 960,
+    "cliente_id": 20,
+    "data_pedido": "2026-08-19",
+    "status": "Entregue"
+  },
+  {
+    "id": 961,
+    "cliente_id": 94,
+    "data_pedido": "2026-07-29",
+    "status": "Entregue"
+  },
+  {
+    "id": 962,
+    "cliente_id": 45,
+    "data_pedido": "2026-03-03",
+    "status": "Entregue"
+  },
+  {
+    "id": 963,
+    "cliente_id": 78,
+    "data_pedido": "2026-09-05",
+    "status": "Entregue"
+  },
+  {
+    "id": 964,
+    "cliente_id": 31,
+    "data_pedido": "2026-03-17",
+    "status": "Entregue"
+  },
+  {
+    "id": 965,
+    "cliente_id": 69,
+    "data_pedido": "2026-03-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 966,
+    "cliente_id": 90,
+    "data_pedido": "2026-04-24",
+    "status": "Entregue"
+  },
+  {
+    "id": 967,
+    "cliente_id": 86,
+    "data_pedido": "2026-05-11",
+    "status": "Entregue"
+  },
+  {
+    "id": 968,
+    "cliente_id": 27,
+    "data_pedido": "2026-07-08",
+    "status": "Entregue"
+  },
+  {
+    "id": 969,
+    "cliente_id": 59,
+    "data_pedido": "2026-01-06",
+    "status": "Entregue"
+  },
+  {
+    "id": 970,
+    "cliente_id": 93,
+    "data_pedido": "2026-05-12",
+    "status": "Entregue"
+  },
+  {
+    "id": 971,
+    "cliente_id": 14,
+    "data_pedido": "2026-07-20",
+    "status": "Entregue"
+  },
+  {
+    "id": 972,
+    "cliente_id": 13,
+    "data_pedido": "2026-06-13",
+    "status": "Pendente"
+  },
+  {
+    "id": 973,
+    "cliente_id": 73,
+    "data_pedido": "2026-04-24",
+    "status": "Pendente"
+  },
+  {
+    "id": 974,
+    "cliente_id": 18,
+    "data_pedido": "2026-07-28",
+    "status": "Pendente"
+  },
+  {
+    "id": 975,
+    "cliente_id": 13,
+    "data_pedido": "2026-03-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 976,
+    "cliente_id": 44,
+    "data_pedido": "2026-07-12",
+    "status": "Pendente"
+  },
+  {
+    "id": 977,
+    "cliente_id": 12,
+    "data_pedido": "2026-05-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 978,
+    "cliente_id": 90,
+    "data_pedido": "2026-05-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 979,
+    "cliente_id": 11,
+    "data_pedido": "2026-06-04",
+    "status": "Entregue"
+  },
+  {
+    "id": 980,
+    "cliente_id": 56,
+    "data_pedido": "2026-01-25",
+    "status": "Pendente"
+  },
+  {
+    "id": 981,
+    "cliente_id": 51,
+    "data_pedido": "2026-02-01",
+    "status": "Entregue"
+  },
+  {
+    "id": 982,
+    "cliente_id": 24,
+    "data_pedido": "2026-04-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 983,
+    "cliente_id": 63,
+    "data_pedido": "2026-08-27",
+    "status": "Cancelado"
+  },
+  {
+    "id": 984,
+    "cliente_id": 51,
+    "data_pedido": "2026-03-26",
+    "status": "Entregue"
+  },
+  {
+    "id": 985,
+    "cliente_id": 24,
+    "data_pedido": "2026-02-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 986,
+    "cliente_id": 12,
+    "data_pedido": "2026-02-10",
+    "status": "Pendente"
+  },
+  {
+    "id": 987,
+    "cliente_id": 83,
+    "data_pedido": "2026-09-23",
+    "status": "Pendente"
+  },
+  {
+    "id": 988,
+    "cliente_id": 43,
+    "data_pedido": "2026-09-03",
+    "status": "Pendente"
+  },
+  {
+    "id": 989,
+    "cliente_id": 17,
+    "data_pedido": "2026-10-02",
+    "status": "Entregue"
+  },
+  {
+    "id": 990,
+    "cliente_id": 41,
+    "data_pedido": "2026-07-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 991,
+    "cliente_id": 47,
+    "data_pedido": "2026-08-22",
+    "status": "Pendente"
+  },
+  {
+    "id": 992,
+    "cliente_id": 97,
+    "data_pedido": "2026-04-24",
+    "status": "Cancelado"
+  },
+  {
+    "id": 993,
+    "cliente_id": 16,
+    "data_pedido": "2026-01-25",
+    "status": "Entregue"
+  },
+  {
+    "id": 994,
+    "cliente_id": 60,
+    "data_pedido": "2026-04-27",
+    "status": "Entregue"
+  },
+  {
+    "id": 995,
+    "cliente_id": 26,
+    "data_pedido": "2026-03-10",
+    "status": "Entregue"
+  },
+  {
+    "id": 996,
+    "cliente_id": 70,
+    "data_pedido": "2026-09-08",
+    "status": "Pendente"
+  },
+  {
+    "id": 997,
+    "cliente_id": 31,
+    "data_pedido": "2026-03-05",
+    "status": "Cancelado"
+  },
+  {
+    "id": 998,
+    "cliente_id": 51,
+    "data_pedido": "2026-06-28",
+    "status": "Entregue"
+  },
+  {
+    "id": 999,
+    "cliente_id": 79,
+    "data_pedido": "2026-07-14",
+    "status": "Entregue"
+  },
+  {
+    "id": 1000,
+    "cliente_id": 52,
+    "data_pedido": "2026-02-19",
+    "status": "Pendente"
+  }
+]

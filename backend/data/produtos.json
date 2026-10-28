@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "nome": "Mouse Gamer",
+    "categoria": "Perifericos",
+    "preco": 1927.57
+  },
+  {
+    "id": 2,
+    "nome": "Teclado Gamer",
+    "categoria": "Componentes",
+    "preco": 1368.56
+  },
+  {
+    "id": 3,
+    "nome": "Headset Gamer",
+    "categoria": "Redes",
+    "preco": 2986.43
+  },
+  {
+    "id": 4,
+    "nome": "Monitor Gamer",
+    "categoria": "Acessorios",
+    "preco": 72.49
+  },
+  {
+    "id": 5,
+    "nome": "Cadeira Gamer",
+    "categoria": "Eletronicos",
+    "preco": 1355.76
+  },
+  {
+    "id": 6,
+    "nome": "Webcam HD",
+    "categoria": "Perifericos",
+    "preco": 1123.45
+  },
+  {
+    "id": 7,
+    "nome": "SSD NVMe",
+    "categoria": "Componentes",
+    "preco": 2263.36
+  },
+  {
+    "id": 8,
+    "nome": "Memoria RAM",
+    "categoria": "Redes",
+    "preco": 1704.63
+  },
+  {
+    "id": 9,
+    "nome": "Placa de Video",
+    "categoria": "Acessorios",
+    "preco": 1440.67
+  },
+  {
+    "id": 10,
+    "nome": "Processador",
+    "categoria": "Eletronicos",
+    "preco": 3182.66
+  },
+  {
+    "id": 11,
+    "nome": "Fonte ATX",
+    "categoria": "Perifericos",
+    "preco": 97.84
+  },
+  {
+    "id": 12,
+    "nome": "Gabinete RGB",
+    "categoria": "Componentes",
+    "preco": 2395.63
+  },
+  {
+    "id": 13,
+    "nome": "Mousepad RGB",
+    "categoria": "Redes",
+    "preco": 2067.59
+  },
+  {
+    "id": 14,
+    "nome": "Microfone USB",
+    "categoria": "Acessorios",
+    "preco": 249.51
+  },
+  {
+    "id": 15,
+    "nome": "Caixa Bluetooth",
+    "categoria": "Eletronicos",
+    "preco": 1634.88
+  },
+  {
+    "id": 16,
+    "nome": "Controle USB",
+    "categoria": "Perifericos",
+    "preco": 348.59
+  },
+  {
+    "id": 17,
+    "nome": "Hub USB",
+    "categoria": "Componentes",
+    "preco": 1102.62
+  },
+  {
+    "id": 18,
+    "nome": "Roteador Wi-Fi",
+    "categoria": "Redes",
+    "preco": 2973.3
+  },
+  {
+    "id": 19,
+    "nome": "Switch de Rede",
+    "categoria": "Acessorios",
+    "preco": 932.85
+  },
+  {
+    "id": 20,
+    "nome": "Cabo HDMI",
+    "categoria": "Eletronicos",
+    "preco": 654.37
+  },
+  {
+    "id": 21,
+    "nome": "Cabo de Rede",
+    "categoria": "Perifericos",
+    "preco": 563.67
+  },
+  {
+    "id": 22,
+    "nome": "Pendrive",
+    "categoria": "Componentes",
+    "preco": 3409.95
+  },
+  {
+    "id": 23,
+    "nome": "HD Externo",
+    "categoria": "Redes",
+    "preco": 2294.41
+  },
+  {
+    "id": 24,
+    "nome": "Notebook",
+    "categoria": "Acessorios",
+    "preco": 430.93
+  },
+  {
+    "id": 25,
+    "nome": "Mini PC",
+    "categoria": "Eletronicos",
+    "preco": 208.54
+  },
+  {
+    "id": 26,
+    "nome": "Placa Mae",
+    "categoria": "Perifericos",
+    "preco": 3180.38
+  },
+  {
+    "id": 27,
+    "nome": "Cooler RGB",
+    "categoria": "Componentes",
+    "preco": 624.6
+  },
+  {
+    "id": 28,
+    "nome": "Pasta Termica",
+    "categoria": "Redes",
+    "preco": 2619.6
+  },
+  {
+    "id": 29,
+    "nome": "Adaptador USB-C",
+    "categoria": "Acessorios",
+    "preco": 79.27
+  },
+  {
+    "id": 30,
+    "nome": "Suporte Notebook",
+    "categoria": "Eletronicos",
+    "preco": 2072.13
+  },
+  {
+    "id": 31,
+    "nome": "Smartwatch",
+    "categoria": "Perifericos",
+    "preco": 1303.56
+  },
+  {
+    "id": 32,
+    "nome": "Luminaria LED",
+    "categoria": "Componentes",
+    "preco": 1866.79
+  },
+  {
+    "id": 33,
+    "nome": "Fone Bluetooth",
+    "categoria": "Redes",
+    "preco": 562.9
+  },
+  {
+    "id": 34,
+    "nome": "Projetor",
+    "categoria": "Acessorios",
+    "preco": 1085.17
+  },
+  {
+    "id": 35,
+    "nome": "Tablet",
+    "categoria": "Eletronicos",
+    "preco": 1632.41
+  },
+  {
+    "id": 36,
+    "nome": "Impressora 3D",
+    "categoria": "Perifericos",
+    "preco": 3001.25
+  },
+  {
+    "id": 37,
+    "nome": "Filamento PLA",
+    "categoria": "Componentes",
+    "preco": 384.32
+  },
+  {
+    "id": 38,
+    "nome": "Kit Arduino",
+    "categoria": "Redes",
+    "preco": 781.56
+  },
+  {
+    "id": 39,
+    "nome": "ESP32",
+    "categoria": "Acessorios",
+    "preco": 1408.7
+  },
+  {
+    "id": 40,
+    "nome": "Sensor Ultrassonico",
+    "categoria": "Eletronicos",
+    "preco": 364.6
+  },
+  {
+    "id": 41,
+    "nome": "Camera IP",
+    "categoria": "Perifericos",
+    "preco": 3396.8
+  },
+  {
+    "id": 42,
+    "nome": "Fechadura Smart",
+    "categoria": "Componentes",
+    "preco": 1503.63
+  },
+  {
+    "id": 43,
+    "nome": "Tomada Smart",
+    "categoria": "Redes",
+    "preco": 740.33
+  },
+  {
+    "id": 44,
+    "nome": "Kit Ferramentas",
+    "categoria": "Acessorios",
+    "preco": 87.45
+  },
+  {
+    "id": 45,
+    "nome": "Multimetro",
+    "categoria": "Eletronicos",
+    "preco": 1174.86
+  },
+  {
+    "id": 46,
+    "nome": "Estacao de Solda",
+    "categoria": "Perifericos",
+    "preco": 2354.36
+  },
+  {
+    "id": 47,
+    "nome": "No-break",
+    "categoria": "Componentes",
+    "preco": 960.09
+  },
+  {
+    "id": 48,
+    "nome": "Estabilizador",
+    "categoria": "Redes",
+    "preco": 2559.47
+  },
+  {
+    "id": 49,
+    "nome": "Impressora Laser",
+    "categoria": "Acessorios",
+    "preco": 2160.38
+  },
+  {
+    "id": 50,
+    "nome": "Scanner",
+    "categoria": "Eletronicos",
+    "preco": 139.44
+  }
+]
