@@ -2,7 +2,7 @@ import { group, sum, delivered, money, num, monthly } from "./analytics.js";
 export const missions = [
   {
     id: 1,
-    title: "Conhecendo a GeekShop",
+    title: "Conhecendo a Loja_geek",
     desc: "Descubra quantos clientes, produtos e pedidos existem e quais são os status distintos.",
     sql: "SELECT COUNT(*) AS total_clientes FROM clientes;\nSELECT COUNT(*) AS total_produtos FROM produtos;\nSELECT COUNT(*) AS total_pedidos FROM pedidos;\nSELECT DISTINCT status FROM pedidos;",
     run: (d, r) => [
